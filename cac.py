@@ -8,6 +8,7 @@ average_cac = sum(cac_values) / len(cac_values)
 
 # Industry benchmark
 industry_target = 150
+hello=100
 
 # Print key stats
 print(f"Quarterly CAC values: {cac_values}")
